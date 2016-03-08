@@ -1,0 +1,12 @@
+/web/bundles/
+/web/assets/vendor
+/app/bootstrap.php.cache
+/app/cache/*
+/app/config/parameters.yml
+/app/logs/*
+/app/phpunit.xml
+/build/
+/vendor/
+/bin/
+.idea
+*.DS_Store
